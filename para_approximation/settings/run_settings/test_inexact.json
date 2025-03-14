@@ -1,0 +1,11 @@
+{
+  "exact_mip" : 0,
+  "function_setting_names" : ["zigzag_setting4.json"],
+  "model_setting_names" : ["setting_eps-0.json"],
+  "approximation_directions" : [0],
+  "max_time_limit" : 3600,
+  "max_iterations" : 24,
+  "log_search" : 1,
+  "write_solution" : 0,
+  "visual_output" : 1
+}

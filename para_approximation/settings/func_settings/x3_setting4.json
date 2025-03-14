@@ -1,0 +1,9 @@
+{
+  "name": "x3_setting4",
+  "dim" : "1",
+  "func": "x^3",
+  "Func" : "1/4x^4",
+  "lb" : "-5",
+  "ub" : "0",
+  "L-constant": "50.0"
+}

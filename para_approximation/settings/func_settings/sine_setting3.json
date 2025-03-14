@@ -1,0 +1,9 @@
+{
+  "name": "sine_setting3",
+  "dim" : "1",
+  "func": "sin(x1)",
+  "Func" : "-cos(x1)",
+  "lb" : "0",
+  "ub" : "6.283185307179586",
+  "L-constant": "1"
+}

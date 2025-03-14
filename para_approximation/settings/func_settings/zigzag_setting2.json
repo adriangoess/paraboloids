@@ -1,0 +1,9 @@
+{
+  "name": "zigzag_setting2",
+  "dim" : "1",
+  "func": "zigzag",
+  "Func" : "Zigzag",
+  "lb" : "0",
+  "ub" : "5",
+  "L-constant": "1.0"
+}

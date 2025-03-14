@@ -1,0 +1,11 @@
+{
+  "exact_mip" : 1,
+  "function_setting_names" : ["sine_setting1.json"],
+  "model_setting_names" : ["setting_eps-1.json"],
+  "approximation_directions" : [1, 0],
+  "max_time_limit" : 3600,
+  "max_iterations" : 5,
+  "log_search" : 1,
+  "write_solution" : 0,
+  "visual_output" : 0
+}
